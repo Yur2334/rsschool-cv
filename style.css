@@ -1,8 +1,20 @@
 body {
+	padding-left: 50px;
+	padding-top: 40px;
 	max-width: 1200px;
 	box-sizing: border-box;
 	margin: 0 auto;
-	background-image: url(./assets/6026112-1.jpg);
+	background-image: url(./assets/grunge-paper-background.jpg);
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: cover;
+}
+
+.headnav {
+	display: flex;
+	justify-content: space-around;
+}
+
+.footer {
+	display: flex;
+	justify-content: space-between;
 }
