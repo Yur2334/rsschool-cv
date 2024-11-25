@@ -16,3 +16,9 @@ I am Yuri Kudelko, currently I work as a shift foreman at a gas turbine power pl
 function multiply (a, b) {
 return a * b
 }
+## Work Experience:
+JS/FE Pre-School 2022
+## Education
+Belarusian National Technical University
+## languages
+English A2
